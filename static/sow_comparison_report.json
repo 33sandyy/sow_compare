@@ -1,0 +1,379 @@
+[
+  {
+    "uploaded_section_number": "1",
+    "uploaded_heading": "Preamble",
+    "uploaded_text": "TABLE_START\nScope of Work Document | Scope of Work Document\nPurchase Order No. & Date | \nVendor Name | ABC Software Pvt. Ltd.\nSOW Effective From | 01-Apr 2025\nSOW Effective To | 31-Mar 2026\nMSA Validity Effective From | 01st April 2021\nMSA Validity Effective To | 01st April 2026\nTitle of Project/ Activity | Full stack developer for DX activities in S&M – Customer DX\nTABLE_END\n**Purchase division**\nTABLE_START\nBetween / ABC Software  Pvt. Ltd. having its office at #42, 15th Cross, 14th Main, Sector IV, HSR Layout, Bangalore-560102. (Hereinafter referred to as ABC) / and,\nM/s Toyota Kirloskar Motor Pvt. Ltd, having its registered office at Plot No. 1, Bidadi Industrial Area, Ramanagara  District, Karnataka State,  PIN 562 109, India (Hereinafter referred to as \"TKM\")\nTABLE_END",
+    "matched_template_section": "Preamble",
+    "matched_template_text": "Toyota Kirloskar Motor Pvt. Ltd.\nPURCHASE DIVISION\nTABLE_START\nScope of Work Document | Scope of Work Document\nPurchase Order No. & Date | \nVendor Name | \nSOW Effective From | \nSOW Effective To | \nMSA Validity Effective From | \nMSA Validity Effective To | \nTitle of the Project / Activity | \nTABLE_END\n**Between**\nM/s. Toyota Kirloskar Motor Pvt. Ltd, having its registered office at Plot No. 1, Bidadi Industrial Area, Ramanagara District, Karnataka State, PIN 562 109, India (Hereinafter referred to as \"TKM\")\nAnd\nM/s. XYZ having its registered office at India (Hereinafter referred to as “XYZ”)",
+    "faiss_score": 0.9033,
+    "refined_score": 1.0,
+    "status": "Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Ltd, having its registered office at Plot No.",
+        "template_sentence": "Ltd, having its registered office at Plot No.",
+        "score": 1.0000001192092896
+      },
+      {
+        "uploaded_sentence": "Ltd.",
+        "template_sentence": "Ltd.",
+        "score": 0.9999998807907104
+      },
+      {
+        "uploaded_sentence": "Ltd.",
+        "template_sentence": "Ltd.",
+        "score": 0.9999998807907104
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "1",
+    "uploaded_heading": "Preamble",
+    "uploaded_text": "",
+    "matched_template_section": "Preamble",
+    "matched_template_text": "",
+    "faiss_score": 0.7277,
+    "refined_score": 0.0,
+    "status": "Deviated",
+    "matched_sentences": []
+  },
+  {
+    "uploaded_section_number": "2",
+    "uploaded_heading": "PART A – Technical Definitions :: Background",
+    "uploaded_text": "Toyota Kirloskar Motor Pvt. Ltd. (TKM) requires services from ABC Software Pvt. Ltd. (ABC) to provide the required support for resources for Digital Transformation activities in Sales and Marketing area. ABC had provided support resources for SDD2 department, IS division for S&M Applications sustenance and development and extended the same to support in DUR, DN, PU and ST Phases of Factory DX project activities for the period from Apr 2023 -Mar 2025. TKM would like to continue the services for DX activities requirements study, design, development, and System testing activities for the duration from 01-Apr 2025 to 31-Mar 2026.\nABC shall therefore provide the required manpower to deliver the required services as per the defined Schedule and roles and responsibilities to TKM-IS from 01-Apr 2025 to 31-Mar 2026",
+    "matched_template_section": "PART A – Technical Definitions :: Background",
+    "matched_template_text": "This section explains the business context and why this project or activity is required.",
+    "faiss_score": 0.4978,
+    "refined_score": 0.377,
+    "status": "Partially Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "(ABC) to provide the required support for resources for Digital Transformation activities in Sales and Marketing area.",
+        "template_sentence": "This section explains the business context and why this project or activity is required.",
+        "score": 0.4387854337692261
+      },
+      {
+        "uploaded_sentence": "ABC had provided support resources for SDD2 department, IS division for S&M Applications sustenance and development and extended the same to support in DUR, DN, PU and ST Phases of Factory DX project activities for the period from Apr 2023 -Mar 2025.",
+        "template_sentence": "This section explains the business context and why this project or activity is required.",
+        "score": 0.3642217516899109
+      },
+      {
+        "uploaded_sentence": "ABC shall therefore provide the required manpower to deliver the required services as per the defined Schedule and roles and responsibilities to TKM-IS from 01-Apr 2025 to 31-Mar 2026",
+        "template_sentence": "This section explains the business context and why this project or activity is required.",
+        "score": 0.32803279161453247
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "3",
+    "uploaded_heading": "PART A – Technical Definitions :: Objective of the document",
+    "uploaded_text": "Development of new Application in DX area in Sales and Marketing applications as a Time and material-based from 01-Apr 2025 to 31-Mar 2026\n**Detail scope of work is as per section 2.1 below.**",
+    "matched_template_section": "PART A – Technical Definitions :: Objective of the document",
+    "matched_template_text": "This section outlines the purpose of the document and summarizes the business goals and high-level scope of work.",
+    "faiss_score": 0.505,
+    "refined_score": 0.3776,
+    "status": "Partially Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Development of new Application in DX area in Sales and Marketing applications as a Time and material-based from 01-Apr 2025 to 31-Mar 2026\n**Detail scope of work is as per section 2.1 below.**",
+        "template_sentence": "This section outlines the purpose of the document and summarizes the business goals and high-level scope of work.",
+        "score": 0.3776032328605652
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "4",
+    "uploaded_heading": "PART A – Technical Definitions :: Baselines",
+    "uploaded_text": "TABLE_START\nService Elements | Description\nContract duration | 01-Apr-2025 to 31-Mar 2026\nService Coverage | Resource shall follow TKM Plant calendar (8:30 AM – 5:30 PM), at TKM SWIFT office Bidadi (8:30 AM – 5:30 PM)\nLocation | TKM SWIFT office, Bidadi\nService Level objectives | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nScope of services | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nService Delivery Model | Time & material based\nTABLE_END",
+    "matched_template_section": "PART A – Technical Definitions :: Baselines",
+    "matched_template_text": "TABLE_START\nService Elements | Description\nContract duration | Effective From and Effective to\nService Coverage | As per TKM calendar (shift details /Timings)\nLocation | Bidadi? IS Office? Both? Remote support? ( Primary location of the Delivery Team\nService Level objectives | Define High level Objective for the activity\nScope of services | Define High level Scope of work\nService Delivery Model | Response and Resolution time based or  Delivery / Milestone based.\nTABLE_END",
+    "faiss_score": 0.7012,
+    "refined_score": 0.5261,
+    "status": "Partially Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "TABLE_START\nService Elements | Description\nContract duration | 01-Apr-2025 to 31-Mar 2026\nService Coverage | Resource shall follow TKM Plant calendar (8:30 AM – 5:30 PM), at TKM SWIFT office Bidadi (8:30 AM – 5:30 PM)\nLocation | TKM SWIFT office, Bidadi\nService Level objectives | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nScope of services | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nService Delivery Model | Time & material based\nTABLE_END",
+        "template_sentence": "TABLE_START\nService Elements | Description\nContract duration | Effective From and Effective to\nService Coverage | As per TKM calendar (shift details /Timings)\nLocation | Bidadi?",
+        "score": 0.7725712060928345
+      },
+      {
+        "uploaded_sentence": "TABLE_START\nService Elements | Description\nContract duration | 01-Apr-2025 to 31-Mar 2026\nService Coverage | Resource shall follow TKM Plant calendar (8:30 AM – 5:30 PM), at TKM SWIFT office Bidadi (8:30 AM – 5:30 PM)\nLocation | TKM SWIFT office, Bidadi\nService Level objectives | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nScope of services | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nService Delivery Model | Time & material based\nTABLE_END",
+        "template_sentence": "( Primary location of the Delivery Team\nService Level objectives | Define High level Objective for the activity\nScope of services | Define High level Scope of work\nService Delivery Model | Response and Resolution time based or  Delivery / Milestone based.",
+        "score": 0.5465824604034424
+      },
+      {
+        "uploaded_sentence": "TABLE_START\nService Elements | Description\nContract duration | 01-Apr-2025 to 31-Mar 2026\nService Coverage | Resource shall follow TKM Plant calendar (8:30 AM – 5:30 PM), at TKM SWIFT office Bidadi (8:30 AM – 5:30 PM)\nLocation | TKM SWIFT office, Bidadi\nService Level objectives | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nScope of services | DUR, Design, development and system testing of DX project activities for SDD2 S&M applications\nService Delivery Model | Time & material based\nTABLE_END",
+        "template_sentence": "TABLE_END",
+        "score": 0.2590107321739197
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "4",
+    "uploaded_heading": "PART A – Technical Definitions :: Baselines",
+    "uploaded_text": "",
+    "matched_template_section": "PART A – Technical Definitions :: Baselines",
+    "matched_template_text": "",
+    "faiss_score": 0.9276,
+    "refined_score": 0.0,
+    "status": "Deviated",
+    "matched_sentences": []
+  },
+  {
+    "uploaded_section_number": "5",
+    "uploaded_heading": "Support Methodology. :: Scope of Work",
+    "uploaded_text": "The scope of work to be undertaken by the Support Resources shall include, but not be limited to, the following activities:\nConduct a detailed assessment of business requirements and perform necessary enhancements or modifications to the existing system.\nDesign and develop robust application architecture and database schema in alignment with project objectives.\nCarry out coding, configuration, and initial validation through unit testing.\nPerform defect identification, analysis, and resolution during all stages of development.\nAssist during system integration, validation, and final acceptance testing phases.\nProvide technical documentation and handover support to ensure seamless deployment and maintenance.\n**Project Deliverables**\nThe following deliverables are expected as part of the engagement:\nRequirement and Impact Analysis Reports – capturing system gaps, enhancement needs, and proposed corrections.\nDesign Artifacts – including process flow diagrams, entity-relationship (ER) models, and detailed data structure documentation.\nCode Packages and Unit Test Reports – with evidence of functionality verification and issue logs.\nIntegration & Functional Test (IFT) Documentation – including test scenarios, execution logs, and results.\nSystem Test Summary Report – detailing comprehensive test outcomes, fixes, and validation results.\nFinal Release Package – containing the approved source code, build scripts, executables, and configuration instructions.",
+    "matched_template_section": "Support Methodology. :: Scope of Work",
+    "matched_template_text": "Detail scope of work to be define for the activity / Project.",
+    "faiss_score": 0.7212,
+    "refined_score": 0.5382,
+    "status": "Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "The scope of work to be undertaken by the Support Resources shall include, but not be limited to, the following activities:\nConduct a detailed assessment of business requirements and perform necessary enhancements or modifications to the existing system.",
+        "template_sentence": "Detail scope of work to be define for the activity / Project.",
+        "score": 0.6629146337509155
+      },
+      {
+        "uploaded_sentence": "**Project Deliverables**\nThe following deliverables are expected as part of the engagement:\nRequirement and Impact Analysis Reports – capturing system gaps, enhancement needs, and proposed corrections.",
+        "template_sentence": "Detail scope of work to be define for the activity / Project.",
+        "score": 0.5454261302947998
+      },
+      {
+        "uploaded_sentence": "Design and develop robust application architecture and database schema in alignment with project objectives.",
+        "template_sentence": "Detail scope of work to be define for the activity / Project.",
+        "score": 0.4061361253261566
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "6",
+    "uploaded_heading": "Support Methodology. :: Pre-Requisites",
+    "uploaded_text": "• The support team shall operate entirely from an offsite location using their own computing devices, software licenses, and communication tools.\n• No physical infrastructure, network connectivity, or email access shall be sought or provided by TKM.\n• All coordination, meetings, and reviews shall be conducted virtually through mutually agreed online platforms.\n• The service provider shall make independent travel and logistical arrangements if physical presence is ever required, at their own discretion and cost.",
+    "matched_template_section": "Support Methodology. :: Pre-Requisites (What should TKM Give?)",
+    "matched_template_text": "Specify any pre-requisite for the scope delivery.",
+    "faiss_score": 0.6577,
+    "refined_score": 0.3266,
+    "status": "Deviated",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "• The service provider shall make independent travel and logistical arrangements if physical presence is ever required, at their own discretion and cost.",
+        "template_sentence": "Specify any pre-requisite for the scope delivery.",
+        "score": 0.33721184730529785
+      },
+      {
+        "uploaded_sentence": "• All coordination, meetings, and reviews shall be conducted virtually through mutually agreed online platforms.",
+        "template_sentence": "Specify any pre-requisite for the scope delivery.",
+        "score": 0.326681911945343
+      },
+      {
+        "uploaded_sentence": "• The support team shall operate entirely from an offsite location using their own computing devices, software licenses, and communication tools.",
+        "template_sentence": "Specify any pre-requisite for the scope delivery.",
+        "score": 0.31582111120224
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "7",
+    "uploaded_heading": "Support Methodology. :: Exclusions",
+    "uploaded_text": "Any Planning or discussions other than one of the P&L systems is out of scope.\nAny type of development activities or hardware installation of the proposed solution / task",
+    "matched_template_section": "Support Methodology. :: Exclusions (What the scope does explicitly not cover?)",
+    "matched_template_text": "Specify any exclusions which are our of scope of the 2.1",
+    "faiss_score": 0.6741,
+    "refined_score": 0.3969,
+    "status": "Partially Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Any Planning or discussions other than one of the P&L systems is out of scope.",
+        "template_sentence": "Specify any exclusions which are our of scope of the 2.1",
+        "score": 0.4280048608779907
+      },
+      {
+        "uploaded_sentence": "Any type of development activities or hardware installation of the proposed solution / task",
+        "template_sentence": "Specify any exclusions which are our of scope of the 2.1",
+        "score": 0.3658415675163269
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "8",
+    "uploaded_heading": "Support Methodology. :: Key Assumptions and Points",
+    "uploaded_text": "Once upon a time in a quiet forest, there lived a little sparrow who built her nest on a small neem tree. Nearby, a proud peacock often showed off his colorful feathers, dancing each morning before the sun.\nOne day, the peacock laughed at the sparrow.\n“Look at you! Your feathers are plain and dull. How do you even show your face among such beauty?”\nThe sparrow smiled and said, “Feathers don’t make a bird great, my friend — wings do.”\nThat afternoon, heavy rain poured from the sky. The peacock’s heavy feathers got soaked, and he could not fly to shelter. The little sparrow, light and quick, flew up to a dry branch and stayed safe.\nWhen the rain stopped, the peacock looked up and said, “Now I see — bright feathers can’t help in a storm.”\nThe sparrow chirped kindly, “Every gift has its time to shine.”",
+    "matched_template_section": "Support Methodology. :: Key Assumptions and Points",
+    "matched_template_text": "Assumptions or Pre study results on which the SOW and Quote are based\ne.g., if there are tools involved would these provided by Service Provider or TKM? Whose responsibility is Shift Planning? Who will provide Desktop Laptops Etc? Who will provide Canteen facilities and at whose cost? Will the service provider and his reposirces follow TKM Calendar? SLA shall begin immediately or are there a learning / grace period? Travel to Bidadi at TKM cost?",
+    "faiss_score": 0.1082,
+    "refined_score": 0.0555,
+    "status": "Deviated",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "When the rain stopped, the peacock looked up and said, “Now I see — bright feathers can’t help in a storm.”\nThe sparrow chirped kindly, “Every gift has its time to shine.”",
+        "template_sentence": "Who will provide Canteen facilities and at whose cost?",
+        "score": 0.06514623016119003
+      },
+      {
+        "uploaded_sentence": "Your feathers are plain and dull.",
+        "template_sentence": "Travel to Bidadi at TKM cost?",
+        "score": 0.0516829714179039
+      },
+      {
+        "uploaded_sentence": "When the rain stopped, the peacock looked up and said, “Now I see — bright feathers can’t help in a storm.”\nThe sparrow chirped kindly, “Every gift has its time to shine.”",
+        "template_sentence": "Travel to Bidadi at TKM cost?",
+        "score": 0.04979834333062172
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "9",
+    "uploaded_heading": "Support Methodology. :: Team Structure",
+    "uploaded_text": "",
+    "matched_template_section": "Support Methodology. :: Team Structure",
+    "matched_template_text": "Please define the organization structure of the Delivery Team Hierarchy (along with role names) of the Service provider at TKM including to whom at TKM Hierarchy will they report.",
+    "faiss_score": 0.7296,
+    "refined_score": 0.0,
+    "status": "Deviated",
+    "matched_sentences": []
+  },
+  {
+    "uploaded_section_number": "10",
+    "uploaded_heading": "Support Methodology. :: Escalation Matrix",
+    "uploaded_text": "Escalation contact Information:\nABC\nTABLE_START\nAccount Manager |  | abc@ABC.co.in\nDirector |  | abc@ABC.co.in\nTABLE_END\nTKM\nTABLE_START\nDept. Manager | Ramesh R | ramesh_r@toyota-kirloskar.co.in\nDept. Head | Thejaswi M | thejaswi_m@toyota-kirloskar.co.in\nTABLE_END",
+    "matched_template_section": "Support Methodology. :: Escalation Matrix",
+    "matched_template_text": "The project team will maintain an internal communication chart for resolving issues during the development cycle.\nAny technical or process conflicts will be handled within the delivery unit before notifying higher management.\nA digital collaboration tool will track escalations automatically; hence, individual contact details are not required.",
+    "faiss_score": 0.6383,
+    "refined_score": 0.3354,
+    "status": "Deviated",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Escalation contact Information:\nABC\nTABLE_START\nAccount Manager |  | abc@ABC.co.in\nDirector |  | abc@ABC.co.in\nTABLE_END\nTKM\nTABLE_START\nDept.",
+        "template_sentence": "A digital collaboration tool will track escalations automatically; hence, individual contact details are not required.",
+        "score": 0.43421119451522827
+      },
+      {
+        "uploaded_sentence": "Escalation contact Information:\nABC\nTABLE_START\nAccount Manager |  | abc@ABC.co.in\nDirector |  | abc@ABC.co.in\nTABLE_END\nTKM\nTABLE_START\nDept.",
+        "template_sentence": "Any technical or process conflicts will be handled within the delivery unit before notifying higher management.",
+        "score": 0.30174019932746887
+      },
+      {
+        "uploaded_sentence": "Escalation contact Information:\nABC\nTABLE_START\nAccount Manager |  | abc@ABC.co.in\nDirector |  | abc@ABC.co.in\nTABLE_END\nTKM\nTABLE_START\nDept.",
+        "template_sentence": "The project team will maintain an internal communication chart for resolving issues during the development cycle.",
+        "score": 0.2701072692871094
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "11",
+    "uploaded_heading": "Support Methodology. :: Roles and responsibilities",
+    "uploaded_text": "Roles and responsibilities of support member are as mentioned below\nTABLE_START\nRole | Responsibilities\nFull stack Developer | Requirement study / Programming and unit testing / Bug fixing / System testing and bug fixes\nTABLE_END",
+    "matched_template_section": "Support Methodology. :: Roles and responsibilities",
+    "matched_template_text": "Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team.",
+    "faiss_score": 0.8174,
+    "refined_score": 0.5339,
+    "status": "Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Roles and responsibilities of support member are as mentioned below\nTABLE_START\nRole | Responsibilities\nFull stack Developer | Requirement study / Programming and unit testing / Bug fixing / System testing and bug fixes\nTABLE_END",
+        "template_sentence": "Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team.",
+        "score": 0.5338524580001831
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "12",
+    "uploaded_heading": "Support Methodology. :: Profile & Skill Matrix",
+    "uploaded_text": "Skillsets Requirement\nTABLE_START\nDesignation | Skill set | Experience required / (in Years) | Qualification\nDevelopers | Full stack developer | 7+ | BE / MCA / Graduate\nTABLE_END",
+    "matched_template_section": "Support Methodology. :: Profile & Skill Matrix",
+    "matched_template_text": "Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope",
+    "faiss_score": 0.7355,
+    "refined_score": 0.4586,
+    "status": "Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Skillsets Requirement\nTABLE_START\nDesignation | Skill set | Experience required / (in Years) | Qualification\nDevelopers | Full stack developer | 7+ | BE / MCA / Graduate\nTABLE_END",
+        "template_sentence": "Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope",
+        "score": 0.45857205986976624
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "13",
+    "uploaded_heading": "Support Methodology. :: Key Performance Indicators (KPI)",
+    "uploaded_text": "**KPI**\nDetails requirement study\nDesign\nDevelopment\nCode review\nTesting\nUAT support and implementation.\nTABLE_START\nSl. No. | Activity | Deliverable | Periodicity | KPI – Target\n1 | Swachh TKM | Create, safe, Clean and bright environment | Daily | 100%\n2 | Compliance to Safety rules | Compliance to Safety rules | Daily | 100%\n3 | Spot Audit | Spot Audit will be conducted as defined in Confidentiality management policy. (Asset labelling, Print Management, Clean desk, and Clear Screen) | Daily | 100%\nTABLE_END",
+    "matched_template_section": "Support Methodology. :: Key Performance Indicators",
+    "matched_template_text": "What shall be the KPI’s based on which the performance of this SOW be measured?  KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.\nAlso include Audit Compliance KPI, Cleanliness & safety KPI",
+    "faiss_score": 0.6063,
+    "refined_score": 0.5243,
+    "status": "Partially Matched",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "| Activity | Deliverable | Periodicity | KPI – Target\n1 | Swachh TKM | Create, safe, Clean and bright environment | Daily | 100%\n2 | Compliance to Safety rules | Compliance to Safety rules | Daily | 100%\n3 | Spot Audit | Spot Audit will be conducted as defined in Confidentiality management policy.",
+        "template_sentence": "Also include Audit Compliance KPI, Cleanliness & safety KPI",
+        "score": 0.6375333070755005
+      },
+      {
+        "uploaded_sentence": "| Activity | Deliverable | Periodicity | KPI – Target\n1 | Swachh TKM | Create, safe, Clean and bright environment | Daily | 100%\n2 | Compliance to Safety rules | Compliance to Safety rules | Daily | 100%\n3 | Spot Audit | Spot Audit will be conducted as defined in Confidentiality management policy.",
+        "template_sentence": "KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.",
+        "score": 0.506495475769043
+      },
+      {
+        "uploaded_sentence": "**KPI**\nDetails requirement study\nDesign\nDevelopment\nCode review\nTesting\nUAT support and implementation.",
+        "template_sentence": "KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.",
+        "score": 0.42897331714630127
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "14",
+    "uploaded_heading": "Support Methodology. :: Service Level Agreement",
+    "uploaded_text": "Not Applicable",
+    "matched_template_section": "Support Methodology. :: Service Level Agreement",
+    "matched_template_text": "Define SLA’s if any,",
+    "faiss_score": 0.8437,
+    "refined_score": 0.1441,
+    "status": "Deviated",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "Not Applicable",
+        "template_sentence": "Define SLA’s if any,",
+        "score": 0.1440926492214203
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "15",
+    "uploaded_heading": "Support Methodology. :: Penalty",
+    "uploaded_text": "In a small village, there lived an old farmer who had three sons. They always quarreled among themselves — about land, money, even about who worked harder.\nOne day, the old man fell sick and decided to teach them a lesson. He called his sons and gave each one a stick.\n“Break it,” he said.\nEach son snapped his stick easily.\nThen the father tied three sticks together into a bundle and said, “Now try to break this.”\nThe eldest tried and failed. The second tried and failed. Even the youngest, who was the strongest, couldn’t do it.",
+    "matched_template_section": "Support Methodology. :: Penalty",
+    "matched_template_text": "If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges. Deliverables will be measured on monthly basis.\nIf XYZ is unable to meet the Deliverable milestones and/or KPIs mentioned above, due to reasons attributable to XYZ, a penalty of (___%) shall be deducted from the monthly service support charges. Deliverables will be measured on a monthly basis.\nThis clause shall survive the expiry or termination of this SOW or the PO or MSA.",
+    "faiss_score": 0.501,
+    "refined_score": 0.0956,
+    "status": "Deviated",
+    "matched_sentences": [
+      {
+        "uploaded_sentence": "The second tried and failed.",
+        "template_sentence": "If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges.",
+        "score": 0.1127852201461792
+      },
+      {
+        "uploaded_sentence": "“Break it,” he said.",
+        "template_sentence": "This clause shall survive the expiry or termination of this SOW or the PO or MSA.",
+        "score": 0.08757780492305756
+      },
+      {
+        "uploaded_sentence": "The second tried and failed.",
+        "template_sentence": "If XYZ is unable to meet the Deliverable milestones and/or KPIs mentioned above, due to reasons attributable to XYZ, a penalty of (___%) shall be deducted from the monthly service support charges.",
+        "score": 0.08651112020015717
+      }
+    ]
+  },
+  {
+    "uploaded_section_number": "16",
+    "uploaded_heading": "Support Methodology. :: Service Window",
+    "uploaded_text": "ABC Team will provide support in General shift (i.e. from 08:30 to 17:30) at TKM-Plant#2 IS office as per TKM working calendar. Resource will be placed onsite at TKM Bidadi Office",
+    "matched_template_section": "Support Methodology. :: Service Window",
+    "matched_template_text": "",
+    "faiss_score": 0.6684,
+    "refined_score": 0.0,
+    "status": "Deviated",
+    "matched_sentences": []
+  }
+]

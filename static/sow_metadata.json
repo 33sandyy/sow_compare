@@ -1,0 +1,274 @@
+[
+  {
+    "section_number": "1",
+    "section_heading": "Preamble",
+    "chunk_id": "1_1",
+    "chunk_text": "Toyota Kirloskar Motor Pvt. Ltd.\nPURCHASE DIVISION\nTABLE_START\nScope of Work Document | Scope of Work Document\nPurchase Order No. & Date | \nVendor Name | \nSOW Effective From | \nSOW Effective To | \nMSA Validity Effective From | \nMSA Validity Effective To | \nTitle of the Project / Activity | \nTABLE_END\n**Between**\nM/s. Toyota Kirloskar Motor Pvt. Ltd, having its registered office at Plot No. 1, Bidadi Industrial Area, Ramanagara District, Karnataka State, PIN 562 109, India (Hereinafter referred to as \"TKM\")\nAnd\nM/s. XYZ having its registered office at India (Hereinafter referred to as “XYZ”)",
+    "sentences": [
+      "Toyota Kirloskar Motor Pvt.",
+      "Ltd.",
+      "PURCHASE DIVISION\nTABLE_START\nScope of Work Document | Scope of Work Document\nPurchase Order No.",
+      "& Date | \nVendor Name | \nSOW Effective From | \nSOW Effective To | \nMSA Validity Effective From | \nMSA Validity Effective To | \nTitle of the Project / Activity | \nTABLE_END\n**Between**\nM/s.",
+      "Toyota Kirloskar Motor Pvt.",
+      "Ltd, having its registered office at Plot No.",
+      "1, Bidadi Industrial Area, Ramanagara District, Karnataka State, PIN 562 109, India (Hereinafter referred to as \"TKM\")\nAnd\nM/s.",
+      "XYZ having its registered office at India (Hereinafter referred to as “XYZ”)"
+    ]
+  },
+  {
+    "section_number": "1",
+    "section_heading": "Preamble",
+    "chunk_id": "1_1",
+    "chunk_text": "",
+    "sentences": []
+  },
+  {
+    "section_number": "2",
+    "section_heading": "PART A – Technical Definitions :: Background",
+    "chunk_id": "2_1",
+    "chunk_text": "This section explains the business context and why this project or activity is required.",
+    "sentences": [
+      "This section explains the business context and why this project or activity is required."
+    ]
+  },
+  {
+    "section_number": "3",
+    "section_heading": "PART A – Technical Definitions :: Objective of the document",
+    "chunk_id": "3_1",
+    "chunk_text": "This section outlines the purpose of the document and summarizes the business goals and high-level scope of work.",
+    "sentences": [
+      "This section outlines the purpose of the document and summarizes the business goals and high-level scope of work."
+    ]
+  },
+  {
+    "section_number": "4",
+    "section_heading": "PART A – Technical Definitions :: Baselines",
+    "chunk_id": "4_1",
+    "chunk_text": "TABLE_START\nService Elements | Description\nContract duration | Effective From and Effective to\nService Coverage | As per TKM calendar (shift details /Timings)\nLocation | Bidadi? IS Office? Both? Remote support? ( Primary location of the Delivery Team\nService Level objectives | Define High level Objective for the activity\nScope of services | Define High level Scope of work\nService Delivery Model | Response and Resolution time based or  Delivery / Milestone based.\nTABLE_END",
+    "sentences": [
+      "TABLE_START\nService Elements | Description\nContract duration | Effective From and Effective to\nService Coverage | As per TKM calendar (shift details /Timings)\nLocation | Bidadi?",
+      "IS Office?",
+      "Both?",
+      "Remote support?",
+      "( Primary location of the Delivery Team\nService Level objectives | Define High level Objective for the activity\nScope of services | Define High level Scope of work\nService Delivery Model | Response and Resolution time based or  Delivery / Milestone based.",
+      "TABLE_END"
+    ]
+  },
+  {
+    "section_number": "4",
+    "section_heading": "PART A – Technical Definitions :: Baselines",
+    "chunk_id": "4_1",
+    "chunk_text": "",
+    "sentences": []
+  },
+  {
+    "section_number": "5",
+    "section_heading": "Support Methodology. :: Scope of Work",
+    "chunk_id": "5_1",
+    "chunk_text": "Detail scope of work to be define for the activity / Project.",
+    "sentences": [
+      "Detail scope of work to be define for the activity / Project."
+    ]
+  },
+  {
+    "section_number": "6",
+    "section_heading": "Support Methodology. :: Pre-Requisites (What should TKM Give?)",
+    "chunk_id": "6_1",
+    "chunk_text": "Specify any pre-requisite for the scope delivery.",
+    "sentences": [
+      "Specify any pre-requisite for the scope delivery."
+    ]
+  },
+  {
+    "section_number": "7",
+    "section_heading": "Support Methodology. :: Exclusions (What the scope does explicitly not cover?)",
+    "chunk_id": "7_1",
+    "chunk_text": "Specify any exclusions which are our of scope of the 2.1",
+    "sentences": [
+      "Specify any exclusions which are our of scope of the 2.1"
+    ]
+  },
+  {
+    "section_number": "8",
+    "section_heading": "Support Methodology. :: Key Assumptions and Points",
+    "chunk_id": "8_1",
+    "chunk_text": "Assumptions or Pre study results on which the SOW and Quote are based\ne.g., if there are tools involved would these provided by Service Provider or TKM? Whose responsibility is Shift Planning? Who will provide Desktop Laptops Etc? Who will provide Canteen facilities and at whose cost? Will the service provider and his reposirces follow TKM Calendar? SLA shall begin immediately or are there a learning / grace period? Travel to Bidadi at TKM cost?",
+    "sentences": [
+      "Assumptions or Pre study results on which the SOW and Quote are based\ne.g., if there are tools involved would these provided by Service Provider or TKM?",
+      "Whose responsibility is Shift Planning?",
+      "Who will provide Desktop Laptops Etc?",
+      "Who will provide Canteen facilities and at whose cost?",
+      "Will the service provider and his reposirces follow TKM Calendar?",
+      "SLA shall begin immediately or are there a learning / grace period?",
+      "Travel to Bidadi at TKM cost?"
+    ]
+  },
+  {
+    "section_number": "9",
+    "section_heading": "Support Methodology. :: Team Structure",
+    "chunk_id": "9_1",
+    "chunk_text": "Please define the organization structure of the Delivery Team Hierarchy (along with role names) of the Service provider at TKM including to whom at TKM Hierarchy will they report.",
+    "sentences": [
+      "Please define the organization structure of the Delivery Team Hierarchy (along with role names) of the Service provider at TKM including to whom at TKM Hierarchy will they report."
+    ]
+  },
+  {
+    "section_number": "10",
+    "section_heading": "Support Methodology. :: Escalation Matrix",
+    "chunk_id": "10_1",
+    "chunk_text": "The project team will maintain an internal communication chart for resolving issues during the development cycle.\nAny technical or process conflicts will be handled within the delivery unit before notifying higher management.\nA digital collaboration tool will track escalations automatically; hence, individual contact details are not required.",
+    "sentences": [
+      "The project team will maintain an internal communication chart for resolving issues during the development cycle.",
+      "Any technical or process conflicts will be handled within the delivery unit before notifying higher management.",
+      "A digital collaboration tool will track escalations automatically; hence, individual contact details are not required."
+    ]
+  },
+  {
+    "section_number": "11",
+    "section_heading": "Support Methodology. :: Roles and responsibilities",
+    "chunk_id": "11_1",
+    "chunk_text": "Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team.",
+    "sentences": [
+      "Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team."
+    ]
+  },
+  {
+    "section_number": "12",
+    "section_heading": "Support Methodology. :: Profile & Skill Matrix",
+    "chunk_id": "12_1",
+    "chunk_text": "Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope",
+    "sentences": [
+      "Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope"
+    ]
+  },
+  {
+    "section_number": "13",
+    "section_heading": "Support Methodology. :: Key Performance Indicators",
+    "chunk_id": "13_1",
+    "chunk_text": "What shall be the KPI’s based on which the performance of this SOW be measured?  KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.\nAlso include Audit Compliance KPI, Cleanliness & safety KPI",
+    "sentences": [
+      "What shall be the KPI’s based on which the performance of this SOW be measured?",
+      "KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.",
+      "Also include Audit Compliance KPI, Cleanliness & safety KPI"
+    ]
+  },
+  {
+    "section_number": "14",
+    "section_heading": "Support Methodology. :: Service Level Agreement",
+    "chunk_id": "14_1",
+    "chunk_text": "Define SLA’s if any,",
+    "sentences": [
+      "Define SLA’s if any,"
+    ]
+  },
+  {
+    "section_number": "15",
+    "section_heading": "Support Methodology. :: Penalty",
+    "chunk_id": "15_1",
+    "chunk_text": "If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges. Deliverables will be measured on monthly basis.\nIf XYZ is unable to meet the Deliverable milestones and/or KPIs mentioned above, due to reasons attributable to XYZ, a penalty of (___%) shall be deducted from the monthly service support charges. Deliverables will be measured on a monthly basis.\nThis clause shall survive the expiry or termination of this SOW or the PO or MSA.",
+    "sentences": [
+      "If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges.",
+      "Deliverables will be measured on monthly basis.",
+      "If XYZ is unable to meet the Deliverable milestones and/or KPIs mentioned above, due to reasons attributable to XYZ, a penalty of (___%) shall be deducted from the monthly service support charges.",
+      "Deliverables will be measured on a monthly basis.",
+      "This clause shall survive the expiry or termination of this SOW or the PO or MSA."
+    ]
+  },
+  {
+    "section_number": "16",
+    "section_heading": "Support Methodology. :: Service Window",
+    "chunk_id": "16_1",
+    "chunk_text": "8:45 x 5:45? 24X7??? General shift? Three Shift? Two shift? Onsite/offsite?\n**PART B – Commercials**",
+    "sentences": [
+      "8:45 x 5:45?",
+      "24X7???",
+      "General shift?",
+      "Three Shift?",
+      "Two shift?",
+      "Onsite/offsite?",
+      "**PART B – Commercials**"
+    ]
+  },
+  {
+    "section_number": "16",
+    "section_heading": "Support Methodology. :: Service Window",
+    "chunk_id": "16_1",
+    "chunk_text": "",
+    "sentences": []
+  },
+  {
+    "section_number": "17",
+    "section_heading": "Commercials :: Commercial Terms",
+    "chunk_id": "17_1",
+    "chunk_text": "YOY Escalation\nResources Mobilization period.\nExpenses incurred during any outstation travel (other than Bidadi)?\nTaxes, And Levies Exclusive, at actuals?",
+    "sentences": [
+      "YOY Escalation\nResources Mobilization period.",
+      "Expenses incurred during any outstation travel (other than Bidadi)?",
+      "Taxes, And Levies Exclusive, at actuals?"
+    ]
+  },
+  {
+    "section_number": "18",
+    "section_heading": "Commercials :: Price",
+    "chunk_id": "18_1",
+    "chunk_text": "Please define the Price break up details (for the scope)\nAlso define separate break up of price (based on Invoice frequency)\n**PART C- Terms**",
+    "sentences": [
+      "Please define the Price break up details (for the scope)\nAlso define separate break up of price (based on Invoice frequency)\n**PART C- Terms**"
+    ]
+  },
+  {
+    "section_number": "19",
+    "section_heading": "Commercials :: General Payment Terms",
+    "chunk_id": "19_1",
+    "chunk_text": "TKM shall pay XYZ for all Services provided by XYZ at the rates set forth herein. XYZ will invoice TKM for Services applicable taxes and any expenses, with supporting documentation attached, except for the last quarter (DD – MONTH- YEAR). All invoices shall be due for payment on the 30th day from invoice date, unless otherwise specified.\nThe invoice for the last quarter will be paid once the SOW is terminated and SLA is reviewed, except in a situation that the SOW is extended for a further period or as per mutual agreement between TKM and XYZ.\nPayments will be in Indian Rupees.\nInvoices should be submitted to _________ (_____Email ID_____), ITM-IS Division of Toyota Kirloskar Motor or any such other person that may be identified by TKM from time to time. Invoices must be signed off and submitted in duplicate. Invoices must be submitted in paper form unless the same is an auto/system generated invoice not requiring a signature.",
+    "sentences": [
+      "TKM shall pay XYZ for all Services provided by XYZ at the rates set forth herein.",
+      "XYZ will invoice TKM for Services applicable taxes and any expenses, with supporting documentation attached, except for the last quarter (DD – MONTH- YEAR).",
+      "All invoices shall be due for payment on the 30th day from invoice date, unless otherwise specified.",
+      "The invoice for the last quarter will be paid once the SOW is terminated and SLA is reviewed, except in a situation that the SOW is extended for a further period or as per mutual agreement between TKM and XYZ.",
+      "Payments will be in Indian Rupees.",
+      "Invoices should be submitted to _________ (_____Email ID_____), ITM-IS Division of Toyota Kirloskar Motor or any such other person that may be identified by TKM from time to time.",
+      "Invoices must be signed off and submitted in duplicate.",
+      "Invoices must be submitted in paper form unless the same is an auto/system generated invoice not requiring a signature."
+    ]
+  },
+  {
+    "section_number": "19",
+    "section_heading": "Commercials :: General Payment Terms",
+    "chunk_id": "19_1",
+    "chunk_text": "",
+    "sentences": []
+  },
+  {
+    "section_number": "20",
+    "section_heading": "Terms and Conditions :: Validity and Effect of Termination",
+    "chunk_id": "20_1",
+    "chunk_text": "This Scope of Work (SOW) document is valid from _________ until _________ (“Term”).\nAny extension of the Term shall be mutually discussed and agreed in writing between TKM and XYZ.\nIn the event of termination of this SOW by either Party, XYZ shall cooperate with the new vendor to facilitate handover details of the site. If the transition goes beyond 3 months, XYZ would be required to give a minimum 45 days’ notice in writing to TKM, seeking extension of transition beyond 3 months.",
+    "sentences": [
+      "This Scope of Work (SOW) document is valid from _________ until _________ (“Term”).",
+      "Any extension of the Term shall be mutually discussed and agreed in writing between TKM and XYZ.",
+      "In the event of termination of this SOW by either Party, XYZ shall cooperate with the new vendor to facilitate handover details of the site.",
+      "If the transition goes beyond 3 months, XYZ would be required to give a minimum 45 days’ notice in writing to TKM, seeking extension of transition beyond 3 months."
+    ]
+  },
+  {
+    "section_number": "21",
+    "section_heading": "Terms and Conditions :: General",
+    "chunk_id": "21_1",
+    "chunk_text": "The annual leave policy applicable to the onsite engineers at TKM will be as per XYZ policy. However, TKM’s working calendar shall be followed by all members.\nThis Agreement is the complete and exclusive statement of the parties in relation to the subject matter hereof; sets forth all obligations of the parties in relation to the subject matter hereof; supersedes all prior or simultaneous written or oral proposals and understandings relating thereto, all of which are expressly excluded.\nIn the event of any conflict between the terms of this SOW and the PO, the PO terms shall stand to supersede. In the event of any conflict between the terms of this PO with the accompanying SOW and the MSA, the MSA terms shall stand to supersede. For avoidance of doubt, parties agree that the MSA shall stand to supersede the PO and SOW.\nThis Agreement may be executed in one or more counterparts and may be executed by electronic signatures. Delivery of an executed counterpart of this Agreement by a .pdf data file or other scanned executed counterpart by email shall be equally as effective as delivery of a manually executed counterpart of this Agreement. Each duplicate and counterpart shall be equally admissible in evidence, and each shall fully bind each party who has executed it. The parties waive all right to challenge the admissibility or authenticity of this Agreement in a court of law based solely on the absence of an original signature.\nFor Toyota Kirloskar Motor (P) Ltd.\t\tFor ______________________\nName__________________________\t\tName ___________________\nTitle__________________________\t\tTitle _____________________",
+    "sentences": [
+      "The annual leave policy applicable to the onsite engineers at TKM will be as per XYZ policy.",
+      "However, TKM’s working calendar shall be followed by all members.",
+      "This Agreement is the complete and exclusive statement of the parties in relation to the subject matter hereof; sets forth all obligations of the parties in relation to the subject matter hereof; supersedes all prior or simultaneous written or oral proposals and understandings relating thereto, all of which are expressly excluded.",
+      "In the event of any conflict between the terms of this SOW and the PO, the PO terms shall stand to supersede.",
+      "In the event of any conflict between the terms of this PO with the accompanying SOW and the MSA, the MSA terms shall stand to supersede.",
+      "For avoidance of doubt, parties agree that the MSA shall stand to supersede the PO and SOW.",
+      "This Agreement may be executed in one or more counterparts and may be executed by electronic signatures.",
+      "Delivery of an executed counterpart of this Agreement by a .pdf data file or other scanned executed counterpart by email shall be equally as effective as delivery of a manually executed counterpart of this Agreement.",
+      "Each duplicate and counterpart shall be equally admissible in evidence, and each shall fully bind each party who has executed it.",
+      "The parties waive all right to challenge the admissibility or authenticity of this Agreement in a court of law based solely on the absence of an original signature.",
+      "For Toyota Kirloskar Motor (P) Ltd.",
+      "For ______________________\nName__________________________\t\tName ___________________\nTitle__________________________\t\tTitle _____________________"
+    ]
+  }
+]

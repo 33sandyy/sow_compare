@@ -1,0 +1,18 @@
+[1] Preamble → Matched | refined=1.000 | faiss=0.903 | Match: Preamble
+[1] Preamble → Deviated | refined=0.000 | faiss=0.728 | Match: Preamble
+[2] PART A – Technical Definitions :: Background → Partially Matched | refined=0.377 | faiss=0.498 | Match: PART A – Technical Definitions :: Background
+[3] PART A – Technical Definitions :: Objective of the document → Partially Matched | refined=0.378 | faiss=0.505 | Match: PART A – Technical Definitions :: Objective of the document
+[4] PART A – Technical Definitions :: Baselines → Partially Matched | refined=0.526 | faiss=0.701 | Match: PART A – Technical Definitions :: Baselines
+[4] PART A – Technical Definitions :: Baselines → Deviated | refined=0.000 | faiss=0.928 | Match: PART A – Technical Definitions :: Baselines
+[5] Support Methodology. :: Scope of Work → Matched | refined=0.538 | faiss=0.721 | Match: Support Methodology. :: Scope of Work
+[6] Support Methodology. :: Pre-Requisites → Deviated | refined=0.327 | faiss=0.658 | Match: Support Methodology. :: Pre-Requisites (What should TKM Give?)
+[7] Support Methodology. :: Exclusions → Partially Matched | refined=0.397 | faiss=0.674 | Match: Support Methodology. :: Exclusions (What the scope does explicitly not cover?)
+[8] Support Methodology. :: Key Assumptions and Points → Deviated | refined=0.056 | faiss=0.108 | Match: Support Methodology. :: Key Assumptions and Points
+[9] Support Methodology. :: Team Structure → Deviated | refined=0.000 | faiss=0.730 | Match: Support Methodology. :: Team Structure
+[10] Support Methodology. :: Escalation Matrix → Deviated | refined=0.335 | faiss=0.638 | Match: Support Methodology. :: Escalation Matrix
+[11] Support Methodology. :: Roles and responsibilities → Matched | refined=0.534 | faiss=0.817 | Match: Support Methodology. :: Roles and responsibilities
+[12] Support Methodology. :: Profile & Skill Matrix → Matched | refined=0.459 | faiss=0.736 | Match: Support Methodology. :: Profile & Skill Matrix
+[13] Support Methodology. :: Key Performance Indicators (KPI) → Partially Matched | refined=0.524 | faiss=0.606 | Match: Support Methodology. :: Key Performance Indicators
+[14] Support Methodology. :: Service Level Agreement → Deviated | refined=0.144 | faiss=0.844 | Match: Support Methodology. :: Service Level Agreement
+[15] Support Methodology. :: Penalty → Deviated | refined=0.096 | faiss=0.501 | Match: Support Methodology. :: Penalty
+[16] Support Methodology. :: Service Window → Deviated | refined=0.000 | faiss=0.668 | Match: Support Methodology. :: Service Window

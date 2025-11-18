@@ -1,0 +1,206 @@
+Template SOW Section Log
+========================================================================================================================
+[Section 1] Preamble
+Chunk ID: 1_1
+Length: 597 chars
+Preview:
+Toyota Kirloskar Motor Pvt. Ltd.
+PURCHASE DIVISION
+TABLE_START
+Scope of Work Document | Scope of Work Document
+Purchase Order No. & Date | 
+Vendor Name | 
+SOW Effective From | 
+SOW Effective To | 
+MSA Validity Effective From | 
+MSA Validity Effective To | 
+Title of the Project / Activity | 
+TABLE_EN...
+----------------------------------------------------------------------------------------------------
+
+[Section 1] Preamble
+Chunk ID: 1_1
+Length: 0 chars
+Preview:
+
+----------------------------------------------------------------------------------------------------
+
+[Section 2] PART A – Technical Definitions :: Background
+Chunk ID: 2_1
+Length: 88 chars
+Preview:
+This section explains the business context and why this project or activity is required.
+----------------------------------------------------------------------------------------------------
+
+[Section 3] PART A – Technical Definitions :: Objective of the document
+Chunk ID: 3_1
+Length: 113 chars
+Preview:
+This section outlines the purpose of the document and summarizes the business goals and high-level scope of work.
+----------------------------------------------------------------------------------------------------
+
+[Section 4] PART A – Technical Definitions :: Baselines
+Chunk ID: 4_1
+Length: 476 chars
+Preview:
+TABLE_START
+Service Elements | Description
+Contract duration | Effective From and Effective to
+Service Coverage | As per TKM calendar (shift details /Timings)
+Location | Bidadi? IS Office? Both? Remote support? ( Primary location of the Delivery Team
+Service Level objectives | Define High level Obje...
+----------------------------------------------------------------------------------------------------
+
+[Section 4] PART A – Technical Definitions :: Baselines
+Chunk ID: 4_1
+Length: 0 chars
+Preview:
+
+----------------------------------------------------------------------------------------------------
+
+[Section 5] Support Methodology. :: Scope of Work
+Chunk ID: 5_1
+Length: 61 chars
+Preview:
+Detail scope of work to be define for the activity / Project.
+----------------------------------------------------------------------------------------------------
+
+[Section 6] Support Methodology. :: Pre-Requisites (What should TKM Give?)
+Chunk ID: 6_1
+Length: 49 chars
+Preview:
+Specify any pre-requisite for the scope delivery.
+----------------------------------------------------------------------------------------------------
+
+[Section 7] Support Methodology. :: Exclusions (What the scope does explicitly not cover?)
+Chunk ID: 7_1
+Length: 56 chars
+Preview:
+Specify any exclusions which are our of scope of the 2.1
+----------------------------------------------------------------------------------------------------
+
+[Section 8] Support Methodology. :: Key Assumptions and Points
+Chunk ID: 8_1
+Length: 449 chars
+Preview:
+Assumptions or Pre study results on which the SOW and Quote are based
+e.g., if there are tools involved would these provided by Service Provider or TKM? Whose responsibility is Shift Planning? Who will provide Desktop Laptops Etc? Who will provide Canteen facilities and at whose cost? Will the servi...
+----------------------------------------------------------------------------------------------------
+
+[Section 9] Support Methodology. :: Team Structure
+Chunk ID: 9_1
+Length: 179 chars
+Preview:
+Please define the organization structure of the Delivery Team Hierarchy (along with role names) of the Service provider at TKM including to whom at TKM Hierarchy will they report.
+----------------------------------------------------------------------------------------------------
+
+[Section 10] Support Methodology. :: Escalation Matrix
+Chunk ID: 10_1
+Length: 344 chars
+Preview:
+The project team will maintain an internal communication chart for resolving issues during the development cycle.
+Any technical or process conflicts will be handled within the delivery unit before notifying higher management.
+A digital collaboration tool will track escalations automatically; hence, ...
+----------------------------------------------------------------------------------------------------
+
+[Section 11] Support Methodology. :: Roles and responsibilities
+Chunk ID: 11_1
+Length: 114 chars
+Preview:
+Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team.
+----------------------------------------------------------------------------------------------------
+
+[Section 12] Support Methodology. :: Profile & Skill Matrix
+Chunk ID: 12_1
+Length: 91 chars
+Preview:
+Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope
+----------------------------------------------------------------------------------------------------
+
+[Section 13] Support Methodology. :: Key Performance Indicators
+Chunk ID: 13_1
+Length: 272 chars
+Preview:
+What shall be the KPI’s based on which the performance of this SOW be measured?  KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.
+Also include Audit Compliance KPI, Cleanliness & safety KPI
+----------------------------------------------------------------------------------------------------
+
+[Section 14] Support Methodology. :: Service Level Agreement
+Chunk ID: 14_1
+Length: 20 chars
+Preview:
+Define SLA’s if any,
+----------------------------------------------------------------------------------------------------
+
+[Section 15] Support Methodology. :: Penalty
+Chunk ID: 15_1
+Length: 569 chars
+Preview:
+If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges. Deliverables will be measured on monthly basis.
+If XYZ is unable to meet the Deliverable milestones and/or ...
+----------------------------------------------------------------------------------------------------
+
+[Section 16] Support Methodology. :: Service Window
+Chunk ID: 16_1
+Length: 100 chars
+Preview:
+8:45 x 5:45? 24X7??? General shift? Three Shift? Two shift? Onsite/offsite?
+**PART B – Commercials**
+----------------------------------------------------------------------------------------------------
+
+[Section 16] Support Methodology. :: Service Window
+Chunk ID: 16_1
+Length: 0 chars
+Preview:
+
+----------------------------------------------------------------------------------------------------
+
+[Section 17] Commercials :: Commercial Terms
+Chunk ID: 17_1
+Length: 154 chars
+Preview:
+YOY Escalation
+Resources Mobilization period.
+Expenses incurred during any outstation travel (other than Bidadi)?
+Taxes, And Levies Exclusive, at actuals?
+----------------------------------------------------------------------------------------------------
+
+[Section 18] Commercials :: Price
+Chunk ID: 18_1
+Length: 142 chars
+Preview:
+Please define the Price break up details (for the scope)
+Also define separate break up of price (based on Invoice frequency)
+**PART C- Terms**
+----------------------------------------------------------------------------------------------------
+
+[Section 19] Commercials :: General Payment Terms
+Chunk ID: 19_1
+Length: 940 chars
+Preview:
+TKM shall pay XYZ for all Services provided by XYZ at the rates set forth herein. XYZ will invoice TKM for Services applicable taxes and any expenses, with supporting documentation attached, except for the last quarter (DD – MONTH- YEAR). All invoices shall be due for payment on the 30th day from in...
+----------------------------------------------------------------------------------------------------
+
+[Section 19] Commercials :: General Payment Terms
+Chunk ID: 19_1
+Length: 0 chars
+Preview:
+
+----------------------------------------------------------------------------------------------------
+
+[Section 20] Terms and Conditions :: Validity and Effect of Termination
+Chunk ID: 20_1
+Length: 485 chars
+Preview:
+This Scope of Work (SOW) document is valid from _________ until _________ (“Term”).
+Any extension of the Term shall be mutually discussed and agreed in writing between TKM and XYZ.
+In the event of termination of this SOW by either Party, XYZ shall cooperate with the new vendor to facilitate handover...
+----------------------------------------------------------------------------------------------------
+
+[Section 21] Terms and Conditions :: General
+Chunk ID: 21_1
+Length: 1629 chars
+Preview:
+The annual leave policy applicable to the onsite engineers at TKM will be as per XYZ policy. However, TKM’s working calendar shall be followed by all members.
+This Agreement is the complete and exclusive statement of the parties in relation to the subject matter hereof; sets forth all obligations of...
+----------------------------------------------------------------------------------------------------

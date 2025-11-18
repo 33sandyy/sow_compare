@@ -1,0 +1,94 @@
+Uploaded SOW Section Summary: SOWDev - Copy.docx
+================================================================================
+[1] Preamble
+TABLE_START
+Scope of Work Document | Scope of Work Document
+Purchase Order No. & Date | 
+Vendor Name | ABC Software Pvt. Ltd.
+SOW Effective From | 01-Apr 2025
+SOW Effective To | 31-Mar 2026
+MSA Validi...
+--------------------------------------------------------------------------------
+[1] Preamble
+...
+--------------------------------------------------------------------------------
+[2] PART A – Technical Definitions :: Background
+Toyota Kirloskar Motor Pvt. Ltd. (TKM) requires services from ABC Software Pvt. Ltd. (ABC) to provide the required support for resources for Digital Transformation activities in Sales and Marketing ar...
+--------------------------------------------------------------------------------
+[3] PART A – Technical Definitions :: Objective of the document
+Development of new Application in DX area in Sales and Marketing applications as a Time and material-based from 01-Apr 2025 to 31-Mar 2026
+**Detail scope of work is as per section 2.1 below.**...
+--------------------------------------------------------------------------------
+[4] PART A – Technical Definitions :: Baselines
+TABLE_START
+Service Elements | Description
+Contract duration | 01-Apr-2025 to 31-Mar 2026
+Service Coverage | Resource shall follow TKM Plant calendar (8:30 AM – 5:30 PM), at TKM SWIFT office Bidadi (8...
+--------------------------------------------------------------------------------
+[4] PART A – Technical Definitions :: Baselines
+...
+--------------------------------------------------------------------------------
+[5] Support Methodology. :: Scope of Work
+The scope of work to be undertaken by the Support Resources shall include, but not be limited to, the following activities:
+Conduct a detailed assessment of business requirements and perform necessary...
+--------------------------------------------------------------------------------
+[6] Support Methodology. :: Pre-Requisites
+• The support team shall operate entirely from an offsite location using their own computing devices, software licenses, and communication tools.
+• No physical infrastructure, network connectivity, or...
+--------------------------------------------------------------------------------
+[7] Support Methodology. :: Exclusions
+Any Planning or discussions other than one of the P&L systems is out of scope.
+Any type of development activities or hardware installation of the proposed solution / task...
+--------------------------------------------------------------------------------
+[8] Support Methodology. :: Key Assumptions and Points
+Once upon a time in a quiet forest, there lived a little sparrow who built her nest on a small neem tree. Nearby, a proud peacock often showed off his colorful feathers, dancing each morning before th...
+--------------------------------------------------------------------------------
+[9] Support Methodology. :: Team Structure
+...
+--------------------------------------------------------------------------------
+[10] Support Methodology. :: Escalation Matrix
+Escalation contact Information:
+ABC
+TABLE_START
+Account Manager |  | abc@ABC.co.in
+Director |  | abc@ABC.co.in
+TABLE_END
+TKM
+TABLE_START
+Dept. Manager | Ramesh R | ramesh_r@toyota-kirloskar.co.in
+Dept...
+--------------------------------------------------------------------------------
+[11] Support Methodology. :: Roles and responsibilities
+Roles and responsibilities of support member are as mentioned below
+TABLE_START
+Role | Responsibilities
+Full stack Developer | Requirement study / Programming and unit testing / Bug fixing / System te...
+--------------------------------------------------------------------------------
+[12] Support Methodology. :: Profile & Skill Matrix
+Skillsets Requirement
+TABLE_START
+Designation | Skill set | Experience required / (in Years) | Qualification
+Developers | Full stack developer | 7+ | BE / MCA / Graduate
+TABLE_END...
+--------------------------------------------------------------------------------
+[13] Support Methodology. :: Key Performance Indicators (KPI)
+**KPI**
+Details requirement study
+Design
+Development
+Code review
+Testing
+UAT support and implementation.
+TABLE_START
+Sl. No. | Activity | Deliverable | Periodicity | KPI – Target
+1 | Swachh TKM | Crea...
+--------------------------------------------------------------------------------
+[14] Support Methodology. :: Service Level Agreement
+Not Applicable...
+--------------------------------------------------------------------------------
+[15] Support Methodology. :: Penalty
+If ABC is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to ABC, a penalty of 5% shall be deducted from the monthly service support charges. Deliverables ...
+--------------------------------------------------------------------------------
+[16] Support Methodology. :: Service Window
+ABC Team will provide support in General shift (i.e. from 08:30 to 17:30) at TKM-Plant#2 IS office as per TKM working calendar. Resource will be placed onsite at TKM Bidadi Office...
+--------------------------------------------------------------------------------

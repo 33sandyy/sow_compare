@@ -1,0 +1,18 @@
+[project]
+name = "sow-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai",
+    "docx",
+    "flask",
+    "flask-cors",
+    "python-docx",
+    "pyjwt",
+    "flask_mysqldb",
+    "sentence_transformers",
+    "numpy",
+    "faiss-cpu"
+]

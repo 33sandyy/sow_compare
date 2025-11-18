@@ -1,0 +1,15 @@
+[1] Preamble → Matched | Score=0.775 | Match: Preamble
+[2] PART A – Technical Definitions :: Background → Deviated | Score=0.500 | Match: PART A – Technical Definitions :: Background
+[3] PART A – Technical Definitions :: Objective of the document → Deviated | Score=0.470 | Match: PART A – Technical Definitions :: Objective of the document
+[4] PART A – Technical Definitions :: Baselines → Matched | Score=0.789 | Match: PART A – Technical Definitions :: Baselines
+[5] Support Methodology. :: Scope of Work → Matched | Score=0.749 | Match: Support Methodology. :: Scope of Work
+[6] Support Methodology. :: Pre-Requisites → Matched | Score=0.690 | Match: Support Methodology. :: Pre-Requisites (What should TKM Give?)
+[7] Support Methodology. :: Exclusions → Matched | Score=0.753 | Match: Support Methodology. :: Exclusions (What the scope does explicitly not cover?)
+[8] Support Methodology. :: Key Assumptions and Points → Deviated | Score=0.223 | Match: Support Methodology. :: Key Assumptions and Points
+[10] Support Methodology. :: Escalation Matrix → Matched | Score=0.652 | Match: Support Methodology. :: Escalation Matrix
+[11] Support Methodology. :: Roles and responsibilities → Matched | Score=0.794 | Match: Support Methodology. :: Roles and responsibilities
+[12] Support Methodology. :: Profile & Skill Matrix → Matched | Score=0.787 | Match: Support Methodology. :: Profile & Skill Matrix
+[13] Support Methodology. :: Key Performance Indicators (KPI) → Matched | Score=0.726 | Match: Support Methodology. :: Key Performance Indicators
+[14] Support Methodology. :: Service Level Agreement → Template Blank (exists but no text in template)
+[15] Support Methodology. :: Penalty → Deviated | Score=0.419 | Match: Support Methodology. :: Penalty
+[16] Support Methodology. :: Service Window → Matched | Score=0.682 | Match: Support Methodology. :: Service Window

@@ -1,0 +1,137 @@
+SOW Section Extraction Log (SOW_temp - Copy.docx)
+================================================================================
+
+[Section 1] Preamble
+Toyota Kirloskar Motor Pvt. Ltd.
+PURCHASE DIVISION
+TABLE_START
+Scope of Work Document | Scope of Work Document
+Purchase Order No. & Date | 
+Vendor Name | 
+SOW Effective From | 
+SOW Effective To | 
+MSA Validity Effective From | 
+MSA Validity Effective To | 
+Title of the Project / Activity | 
+TABLE_END
+**Between**
+M/s. Toyota Kirloskar Motor Pvt. Ltd, having its registered office at Plot No. 1, Bida...
+--------------------------------------------------------------------------------
+
+[Section 1] Preamble
+
+--------------------------------------------------------------------------------
+
+[Section 2] PART A – Technical Definitions :: Background
+This section explains the business context and why this project or activity is required.
+--------------------------------------------------------------------------------
+
+[Section 3] PART A – Technical Definitions :: Objective of the document
+This section outlines the purpose of the document and summarizes the business goals and high-level scope of work.
+--------------------------------------------------------------------------------
+
+[Section 4] PART A – Technical Definitions :: Baselines
+TABLE_START
+Service Elements | Description
+Contract duration | Effective From and Effective to
+Service Coverage | As per TKM calendar (shift details /Timings)
+Location | Bidadi? IS Office? Both? Remote support? ( Primary location of the Delivery Team
+Service Level objectives | Define High level Objective for the activity
+Scope of services | Define High level Scope of work
+Service Delivery Model | ...
+--------------------------------------------------------------------------------
+
+[Section 4] PART A – Technical Definitions :: Baselines
+
+--------------------------------------------------------------------------------
+
+[Section 5] Support Methodology. :: Scope of Work
+Detail scope of work to be define for the activity / Project.
+--------------------------------------------------------------------------------
+
+[Section 6] Support Methodology. :: Pre-Requisites (What should TKM Give?)
+Specify any pre-requisite for the scope delivery.
+--------------------------------------------------------------------------------
+
+[Section 7] Support Methodology. :: Exclusions (What the scope does explicitly not cover?)
+Specify any exclusions which are our of scope of the 2.1
+--------------------------------------------------------------------------------
+
+[Section 8] Support Methodology. :: Key Assumptions and Points
+Assumptions or Pre study results on which the SOW and Quote are based
+e.g., if there are tools involved would these provided by Service Provider or TKM? Whose responsibility is Shift Planning? Who will provide Desktop Laptops Etc? Who will provide Canteen facilities and at whose cost? Will the service provider and his reposirces follow TKM Calendar? SLA shall begin immediately or are there a learn...
+--------------------------------------------------------------------------------
+
+[Section 9] Support Methodology. :: Team Structure
+Please define the organization structure of the Delivery Team Hierarchy (along with role names) of the Service provider at TKM including to whom at TKM Hierarchy will they report.
+--------------------------------------------------------------------------------
+
+[Section 10] Support Methodology. :: Escalation Matrix
+The project team will maintain an internal communication chart for resolving issues during the development cycle.
+Any technical or process conflicts will be handled within the delivery unit before notifying higher management.
+A digital collaboration tool will track escalations automatically; hence, individual contact details are not required.
+--------------------------------------------------------------------------------
+
+[Section 11] Support Methodology. :: Roles and responsibilities
+Define detail Roles and Responsibilities of each member minimum up to Team lead/ Project Manager of delivery Team.
+--------------------------------------------------------------------------------
+
+[Section 12] Support Methodology. :: Profile & Skill Matrix
+Define detail Profile & Skill Requirement Matrix for Delivery Team for the activity / scope
+--------------------------------------------------------------------------------
+
+[Section 13] Support Methodology. :: Key Performance Indicators
+What shall be the KPI’s based on which the performance of this SOW be measured?  KPI’s must be designed to make the service support predictive so that countermeasures may be taken before the Business is impacted.
+Also include Audit Compliance KPI, Cleanliness & safety KPI
+--------------------------------------------------------------------------------
+
+[Section 14] Support Methodology. :: Service Level Agreement
+Define SLA’s if any,
+--------------------------------------------------------------------------------
+
+[Section 15] Support Methodology. :: Penalty
+If XYZ is unable to meet the response and resolution SLA’s set out herein, due to reasons attributable to XYZ, a penalty of (_____%) shall be deducted from the monthly service support charges. Deliverables will be measured on monthly basis.
+If XYZ is unable to meet the Deliverable milestones and/or KPIs mentioned above, due to reasons attributable to XYZ, a penalty of (___%) shall be deducted from...
+--------------------------------------------------------------------------------
+
+[Section 16] Support Methodology. :: Service Window
+8:45 x 5:45? 24X7??? General shift? Three Shift? Two shift? Onsite/offsite?
+**PART B – Commercials**
+--------------------------------------------------------------------------------
+
+[Section 16] Support Methodology. :: Service Window
+
+--------------------------------------------------------------------------------
+
+[Section 17] Commercials :: Commercial Terms
+YOY Escalation
+Resources Mobilization period.
+Expenses incurred during any outstation travel (other than Bidadi)?
+Taxes, And Levies Exclusive, at actuals?
+--------------------------------------------------------------------------------
+
+[Section 18] Commercials :: Price
+Please define the Price break up details (for the scope)
+Also define separate break up of price (based on Invoice frequency)
+**PART C- Terms**
+--------------------------------------------------------------------------------
+
+[Section 19] Commercials :: General Payment Terms
+TKM shall pay XYZ for all Services provided by XYZ at the rates set forth herein. XYZ will invoice TKM for Services applicable taxes and any expenses, with supporting documentation attached, except for the last quarter (DD – MONTH- YEAR). All invoices shall be due for payment on the 30th day from invoice date, unless otherwise specified.
+The invoice for the last quarter will be paid once the SOW i...
+--------------------------------------------------------------------------------
+
+[Section 19] Commercials :: General Payment Terms
+
+--------------------------------------------------------------------------------
+
+[Section 20] Terms and Conditions :: Validity and Effect of Termination
+This Scope of Work (SOW) document is valid from _________ until _________ (“Term”).
+Any extension of the Term shall be mutually discussed and agreed in writing between TKM and XYZ.
+In the event of termination of this SOW by either Party, XYZ shall cooperate with the new vendor to facilitate handover details of the site. If the transition goes beyond 3 months, XYZ would be required to give a minimu...
+--------------------------------------------------------------------------------
+
+[Section 21] Terms and Conditions :: General
+The annual leave policy applicable to the onsite engineers at TKM will be as per XYZ policy. However, TKM’s working calendar shall be followed by all members.
+This Agreement is the complete and exclusive statement of the parties in relation to the subject matter hereof; sets forth all obligations of the parties in relation to the subject matter hereof; supersedes all prior or simultaneous written ...
+--------------------------------------------------------------------------------
